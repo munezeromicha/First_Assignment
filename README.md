@@ -1,3 +1,3 @@
-##C++ First_Assignment 
+C++ First_Assignment 
 ----------------------
 The file included answers of two questions.
